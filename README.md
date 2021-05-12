@@ -5,7 +5,7 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
 - result
   - public: 0.6590873
   - private: 0.7053295
-  - rank: 2nd place / 330
+  - rank: 2nd place / 330 :congratulations:
 
 ## 目次
 [Basics](#basics)  
