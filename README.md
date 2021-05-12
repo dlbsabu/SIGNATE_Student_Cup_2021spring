@@ -12,7 +12,6 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
 [Features](#features)   
 [Final model](#final)  
 [Notebook](#notebook)    
-[Solution](#solution)    
 
 <a id="basics"></a>
 ## Basics
@@ -243,4 +242,3 @@ logも兼ねている
 - LB:0.6590873
 - いやー微妙やなこれ
 - 結局最後までスコア上がらんかったわ
-
