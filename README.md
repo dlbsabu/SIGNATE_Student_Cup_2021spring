@@ -71,8 +71,8 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
 といったところか
 
 <a id="notebook"></a>
-## Notebook
-logも兼ねている
+## Notebook  
+logも兼ねている  
 **nb000**
 - simple EDA
 
