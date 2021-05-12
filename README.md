@@ -1,3 +1,5 @@
 # SIGNATE_Student_Cup_2021spring
 
-![image](https://user-images.githubusercontent.com/68833240/117957148-b9c12600-b354-11eb-9621-a44ef7973bb8.png)
+![image](https://user-images.githubusercontent.com/68833240/117968196-e4b17700-b360-11eb-9d20-c9ca02344624.png)
+
+
