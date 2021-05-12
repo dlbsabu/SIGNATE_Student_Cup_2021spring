@@ -73,6 +73,9 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
 <a id="notebook"></a>
 ## Notebook  
 日記も兼ねている  
+tabnetのCVは実装がうまく行ってなさげなので参考程度に  
+
+
 **nb000**
 - simple EDA
 
