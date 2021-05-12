@@ -53,11 +53,8 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
 
 - tabnet_model[参考](https://zenn.dev/sinchir0/articles/9228eccebfbf579bfdf4)
   - 欠損値補完
-  - num_nas, tempo, one-hot region, CountEnc region, LabelEnc region, log tempo
-  - agg_zscore_[]_grpby_region
-  - standardscaled_[] 
+  - nagiss氏の特徴量
   - standardscaledの代わりにrankgaussスケーリングしたもの
-  - knn
   - '2つ組みの特徴量', '3つ組みの特徴量'のうち、null importanceが結構高いもののみ採用(特徴量増やしすぎても過学習するだけなので、lightGBMより少なめ)
   
 以上3つのモデルのアンサンブル(1:1:1)  
