@@ -6,11 +6,13 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
   - public: 0.6590873
   - private: 0.7053295
   - rank: 2nd place / 330 :congratulations: :clap:
+<img src="https://user-images.githubusercontent.com/68833240/117978083-7672b180-b36c-11eb-9dc2-4ad523fc099d.png" width=50%>
+
 
 ## 目次
 [Basics](#basics)  
 [Features](#features)   
-[Final model](#final)  
+[Solution](#solution)  
 [Notebook](#notebook)    
 
 <a id="basics"></a>
@@ -37,8 +39,8 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
   - standardscaled_[]特徴量に対して、行の"sum", "max", "min", "mean", "median", "mad", "var", "std", "skew", "kurt"
 
 
-<a id="final"></a>
-## Final model
+<a id="solution"></a>
+## Solution
 - simple_lgb_model
   - nigss氏のもの[LGBM+KNN](https://signate.jp/competitions/449/discussions/lgbmknn-lb06567-1?comment_id=3493#3493)がベース
   - '2つ組みの特徴量', '3つ組みの特徴量'をすべて追加したのち、null importanceの重要度が低い特徴量を削除（手違いでこちらをアンサンブルに組み込んでしまった）
