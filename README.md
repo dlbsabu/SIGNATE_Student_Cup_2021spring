@@ -9,10 +9,10 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
 
 ## 目次
 [Basics](#basics)  
-[Features](#features) 
-[Final model](#final)
-[Notebook](#notebook) 
-[Solution](#solution)  
+[Features](#features)   
+[Final model](#final)  
+[Notebook](#notebook)    
+[Solution](#solution)    
 
 <a id="basics"></a>
 ## Basics
