@@ -68,7 +68,7 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
 - とはいえ3つ組みまで足すと増えすぎてCVが悪くなったのである程度特徴量選択をしないとノイズになるだけ。-> 今回はumap等の次元削減よりもnull importanceがうまく行った
 - アンサンブルの多様性のためにrandom seed averageもする。
 - アンサンブルの多様性のためにNN系も追加。今回はtabnetをためした。
-- Trust CV
+- Trust CV  
 といったところか
 
 <a id="notebook"></a>
