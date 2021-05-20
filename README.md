@@ -6,7 +6,7 @@ SIGNATE Student Cup 2021春【予測部門】のリポジトリ
   - public: 0.6590873
   - private: 0.7053295
   - rank: 2nd place / 330 :congratulations: :clap:
-<img src="https://user-images.githubusercontent.com/68833240/117978083-7672b180-b36c-11eb-9dc2-4ad523fc099d.png" width=50%>
+<img src="https://user-images.githubusercontent.com/68833240/118938849-0bd3fe00-b98a-11eb-9193-382a47af890d.png" width=50%>
 
 
 ## 目次
